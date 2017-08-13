@@ -1,0 +1,31 @@
+#Alan Ngo
+#
+#a.
+#define mile
+#define kilo
+#input miles
+#conversion 1.6
+#display conversion in kilometers
+#
+#b.
+#difine and input F
+#conversion(F-32)*(5/9)
+#display conversion in celcius
+#
+#c.
+#difine liter
+#input gallon
+#conversion 3.9
+#display conversion on gallons
+#d.
+#define kilogram
+#input pound
+#conversion .45
+#display conversion in kilogram
+#
+#e.
+#define cenimeter
+#input inches
+#conversion 2.54
+#display conversion in centimeters
+#

@@ -1,0 +1,68 @@
+It is -17.77777777777778° celcius 
+There are 1.6 kilometers in 1.0miles
+There are 3.2 kilometers in 2.0miles
+There are 4.800000000000001 kilometers in 3.0miles
+There are 6.4 kilometers in 4.0miles
+There are 8.0 kilometers in 5.0miles
+There are 9.600000000000001 kilometers in 6.0miles
+There are 11.200000000000001 kilometers in 7.0miles
+There are 12.8 kilometers in 8.0miles
+There are 14.4 kilometers in 9.0miles
+There are 0.0 kilometers in 0.0miles
+There are 3.9 liters in 1.0 gallons
+There are 7.8 liters in 2.0 gallons
+There are 11.7 liters in 3.0 gallons
+There are 15.6 liters in 4.0 gallons
+There are 19.5 liters in 5.0 gallons
+There are 23.4 liters in 6.0 gallons
+There are 27.3 liters in 7.0 gallons
+There are 31.2 liters in 8.0 gallons
+There are 35.1 liters in 9.0 gallons
+There are 0.0 liters in 0.0 gallons
+There are 0.45 kilograms in 1.0 pounds
+There are 0.9 kilograms in 2.0 pounds
+There are 1.35 kilograms in 3.0 pounds
+There are 1.8 kilograms in 4.0 pounds
+There are 2.25 kilograms in 5.0 pounds
+There are 2.7 kilograms in 6.0 pounds
+There are 3.15 kilograms in 7.0 pounds
+There are 3.6 kilograms in 8.0 pounds
+There are 4.05 kilograms in 9.0 pounds
+There are 0.0 kilograms in 0.0 pounds
+There are 2.54 centimeter in 1.0 inches
+There are 5.08 centimeter in 2.0 inches
+There are 7.62 centimeter in 3.0 inches
+There are 10.16 centimeter in 4.0 inches
+There are 12.7 centimeter in 5.0 inches
+There are 15.24 centimeter in 6.0 inches
+There are 17.78 centimeter in 7.0 inches
+There are 20.32 centimeter in 8.0 inches
+There are 22.86 centimeter in 9.0 inches
+There are 0.0 centimeter in 0.0 inches
+It is -17.22222222222222° celcius 
+It is -16.666666666666668° celcius 
+It is -16.11111111111111° celcius 
+It is -15.555555555555555° celcius 
+It is -15.0° celcius 
+It is -14.444444444444445° celcius 
+It is -13.88888888888889° celcius 
+It is -13.333333333333334° celcius 
+It is -12.777777777777779° celcius 
+It is -17.77777777777778° celcius 
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 36.800000000000004 kilometers in 23.0miles
+There are 4.5 kilograms in 10.0 pounds
+There are 4.5 kilograms in 10.0 pounds
+There are 4.5 kilograms in 10.0 pounds
+There are 4.5 kilograms in 10.0 pounds
+There are 4.5 kilograms in 10.0 pounds
+There are 4.5 kilograms in 10.0 pounds
+There are 4.5 kilograms in 10.0 pounds
